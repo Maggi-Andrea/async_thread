@@ -1,6 +1,6 @@
-=============================================
+=========================
 Welcome to |asyncthread|!
-=============================================
+=========================
 
 
 
@@ -21,7 +21,7 @@ Wrap the power of asyncio into a thread for easy intergration with non async cod
 
 
 * Free software: GNU General Public License v3
-* Documentation: https://asyncthread.readthedocs.io.
+* Documentation: https://async-thread.readthedocs.io.
 
 
 
