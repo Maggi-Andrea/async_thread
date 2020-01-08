@@ -19,7 +19,7 @@ def main():
     os.environ['PATH'] = env_path + f";{python_script_path}"
   sys.argv = [
     'sphinx-autobuild', './source', './build/html_live',
-    '--port', '8000',
+    '--port', '8005',
     '--watch', '..',
   ]
   sphinx_autobuild.main()
